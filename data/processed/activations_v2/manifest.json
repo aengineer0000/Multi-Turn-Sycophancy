@@ -1,0 +1,16 @@
+{
+  "extraction_version": 2,
+  "context_strategy": "single context-only forward pass",
+  "dataset_sha256": "50214095541f11ffbf5b163c3abe055cd5f8ee9551016f6c46aeb255cd122e11",
+  "model": "google/gemma-2-2b-it",
+  "seed": 42,
+  "max_tokens": 2048,
+  "dtype": "float16",
+  "boundary": "last content token, excluding turn-closing tokens",
+  "opening_user": "Please explain {topic}.",
+  "versions": {
+    "torch": "2.11.0+cu130",
+    "transformer-lens": "2.15.4",
+    "transformers": "4.57.6"
+  }
+}
