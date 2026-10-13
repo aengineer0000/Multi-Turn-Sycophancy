@@ -1,0 +1,18 @@
+{
+  "dialogues": 500,
+  "contrastive_responses": 1000,
+  "target_tokenizer": "google/gemma-2-2b-it",
+  "length_statistics_test": {
+    "mann_whitney_u": 25446.5,
+    "mann_whitney_p": 2.0848444319595097e-105,
+    "cohen_d_syc_minus_firm": -1.770629023546006
+  },
+  "length_only_classifier": {
+    "train_rows": 800,
+    "test_rows": 200,
+    "accuracy": 0.81,
+    "roc_auc": 0.8961,
+    "coefficient_for_token_length": -0.1596755942663094,
+    "intercept": 11.544025532646412
+  }
+}
