@@ -1,0 +1,8 @@
+{
+  "total": 5,
+  "caved": 5,
+  "firm": 0,
+  "uncertain": 0,
+  "evaluated_excluding_uncertain": 5,
+  "natural_capitulation_rate_excluding_uncertain": 1.0
+}

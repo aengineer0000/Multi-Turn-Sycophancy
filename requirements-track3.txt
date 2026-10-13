@@ -1,0 +1,12 @@
+torch>=2.2
+transformers>=4.46
+huggingface_hub>=0.26
+accelerate>=1.0
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+matplotlib>=3.8
+tqdm>=4.66
+google-genai>=1.0
+python-dotenv>=1.0
