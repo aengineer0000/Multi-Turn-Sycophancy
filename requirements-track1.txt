@@ -1,0 +1,6 @@
+# Keep the HookedTransformer v2 API used by the midterm pipeline.
+transformer-lens==2.15.4
+transformers>=4.51,<5
+pydantic>=2,<3
+sentencepiece>=0.2
+huggingface-hub>=0.30,<1
